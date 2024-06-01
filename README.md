@@ -1,1 +1,10 @@
-# IA-Otimizar-Entregas
+# Trabalho feito no âmbito da UC - Intelegência Artificial 2023/24
+
+Grupo:
+
+- Gonçalo Costa
+- Marta Rodrigues
+- Rei Popes
+- José Oliveira
+
+Grade - 17/20
