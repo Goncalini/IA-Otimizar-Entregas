@@ -7,4 +7,4 @@ Grupo:
 - Rei Popes
 - José Oliveira
 
-Grade - 17/20
+Grade - 16/20
